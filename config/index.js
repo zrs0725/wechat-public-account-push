@@ -68,8 +68,9 @@ export const config = {
       city: "",
       openUrl: "https://wangxinleo.cn"
     }, 
+    */
   ],
-*/
+
   /**
    * 回调消息 相关，主要用来展示发送是否成功/失败的数据
    */
