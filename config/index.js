@@ -147,7 +147,7 @@ export const config = {
     * */
   SLOT_LIST: [
     // 这样配置的话，就会每次发送这句话
-    {"keyword": "encourage_oneself", contents: "Evang@celeste-每日拍猪"},
+    {"keyword": "encourage_oneself", contents: "中秋快乐我的大猪猪，爱你"},
     // 这样配置的话，就会每次随机选一句话发送
     {"keyword": "lover_prattle", contents: [
       "因为太喜欢你，所以看谁都像是情敌。",
